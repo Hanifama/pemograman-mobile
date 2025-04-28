@@ -24,7 +24,7 @@ export interface Route {
 const routes: Route[] = [
     {
         path: '/',
-        component: SkripsiOnline,
+        component: Produk,
     },
     {
         path: '/pertemuan5-stikymenu',
